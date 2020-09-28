@@ -1,5 +1,5 @@
 # Python-Concepts-
-Praciting the Popular Data Visualizations in Python from Kaggle Dataset (Ramen Ratings) 
+Practicing the Popular Data Visualizations in Python from a Kaggle Dataset called Ramen Ratings
 URL: https://www.kaggle.com/residentmario/ramen-ratings
 
 1. Matplotlib
