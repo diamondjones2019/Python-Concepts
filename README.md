@@ -8,5 +8,5 @@ URL: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 # Other Data Visualizations 
 1. Plotly
-2. Bokeh
-3. Altair
+2. Bokeh - coming soon
+3. Altair - coming soon
