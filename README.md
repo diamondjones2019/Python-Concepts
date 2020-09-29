@@ -3,7 +3,10 @@ Practicing the Popular Data Visualizations in Python from a Kaggle Dataset calle
 URL: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 1. Matplotlib
-2. Plotly
-3. Bokeh
-4. Seaborn
-5. Altair
+2. Seaborn
+
+
+# Other Data Visualizations 
+1. Plotly
+2. Bokeh
+3. Altair
