@@ -6,7 +6,6 @@ URL: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 2. Seaborn
 
 
-# Other Data Visualizations (with open datasets) 
+# Other Data Visualizations (with other open datasets) 
 1. Plotly
-2. Bokeh - coming soon
-3. Altair - coming soon
+2. Bokeh
